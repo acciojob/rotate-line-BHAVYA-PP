@@ -1,4 +1,3 @@
-//your JS code here. If required.
 //your CSS code here. If required.
  
  
